@@ -61,7 +61,7 @@
  * [ ] 56. Powerful digit sum
  * [ ] 57. Square root convergents
  * [ ] 58. Spiral primes
- * [ ] 59. XOR decryption
+ * [ ] 59. XOR decryption - In Progress
    * This is decyption for the One Time Pad, using Two Time pad
  * [ ] 60. Prime pair sets
  * [ ] 61. Cyclical figurate numbers
@@ -82,7 +82,7 @@
  * [ ] 76. Counting summations
  * [ ] 77. Prime summations
  * [ ] 78. Coin partitions
- * [ ] 79. Passcode derivation
+ * [ ] 79. Passcode derivation - In Progress
  * [ ] 80. Square root digital expansion
  * [ ] 81. Path sum: two ways
  * [ ] 82. Path sum: three ways
@@ -92,7 +92,7 @@
  * [ ] 86. Cuboid route
  * [ ] 87. Prime power triples
  * [ ] 88. Product-sum numbers
- * [ ] 89. Roman numberals
+ * [ ] 89. Roman numberals - In Progress
  * [ ] 90. Cube digit pairs
  * [ ] 91. Right triangles with integer coordinates
  * [x] 92. Square digit chains
