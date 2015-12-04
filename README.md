@@ -1,6 +1,7 @@
 # ProjectEuler
 ###These are my solutions for Project Euler. 
 ###Problems:
+######Page 1:
  * [x] 1. Multiples of 3 and 5
  * [x] 2. Even Fibonacci numbers
  * [x] 3. Largest prime factor
@@ -30,4 +31,78 @@
  * [ ] 27. Quadratic primes
  * [x] 28. Number spiral diagonals
  * [ ] 29. Distinct powers
-
+ * [x] 30. Digit fifth powers
+ * [x] 31. Coin sums
+ * [ ] 32. Pandigital products
+ * [ ] 33. Digit cancelling fractions
+ * [ ] 34. Digit factorials
+ * [ ] 35. Circular primes
+ * [x] 36. Double-base palindromes
+ * [ ] 37. Truncatable primes
+ * [ ] 38. Pandigital multiples
+ * [x] 39. Integer right triangles
+ * [ ] 40. Champernowne's constant
+ * [ ] 41. Pandigital prime
+ * [x] 42. Coded triangle numbers
+ * [x] 43. Sub-string divisibility
+ * [ ] 44. Pentagon numbers
+ * [ ] 45. Triangular, pentagonal, and hexagonal
+ * [ ] 46. Goldbach's other conjecture
+ * [ ] 47. Distinct primes factors
+ * [x] 48. Self powers
+ * [ ] 49. Prime permutations
+ * [ ] 50. Consecutive prime sum
+######Page 2
+ * [ ] 51. Prime digit replacements
+ * [ ] 52. Permuted multiples
+ * [ ] 53. Conbinatoric selections
+ * [ ] 54. Poker hands
+ * [ ] 55. Lychrel numbers
+ * [ ] 56. Powerful digit sum
+ * [ ] 57. Square root convergents
+ * [ ] 58. Spiral primes
+ * [ ] 59. XOR decryption
+   * This is decyption for the One Time Pad, using Two Time pad
+ * [ ] 60. Prime pair sets
+ * [ ] 61. Cyclical figurate numbers
+ * [ ] 62. Cubic permutations
+ * [ ] 63. Powerful digit counts
+ * [ ] 64. Odd period square roots
+ * [ ] 65. Convergents of e
+ * [ ] 66. Eiophantine equation
+ * [ ] 67. Maximum path sum II
+ * [ ] 68. Magic 5-gon ring
+ * [ ] 69. Totient maximum
+ * [ ] 70. Totient permutation
+ * [ ] 71. Ordered fractions
+ * [ ] 72. Counting fractions
+ * [ ] 73. Counting fractions in a range
+ * [ ] 74. Digit factorial chains
+ * [ ] 75. Singular integer right triangles
+ * [ ] 76. Counting summations
+ * [ ] 77. Prime summations
+ * [ ] 78. Coin partitions
+ * [ ] 79. Passcode derivation
+ * [ ] 80. Square root digital expansion
+ * [ ] 81. Path sum: two ways
+ * [ ] 82. Path sum: three ways
+ * [ ] 83. Path sum: four ways
+ * [ ] 84. Monopoly odds
+ * [ ] 85. Counting rectangles
+ * [ ] 86. Cuboid route
+ * [ ] 87. Prime power triples
+ * [ ] 88. Product-sum numbers
+ * [ ] 89. Roman numberals
+ * [ ] 90. Cube digit pairs
+ * [ ] 91. Right triangles with integer coordinates
+ * [x] 92. Square digit chains
+ * [ ] 93. Arithmetic expressions
+ * [ ] 94. Almost equilateral triangles
+ * [ ] 95. Amicable chains
+ * [ ] 96. Su Doku
+ * [ ] 97. Large non-Mersenne prime
+ * [ ] 98. Anagramic squares
+ * [ ] 99. Largest exponential
+ * [ ] 100. Arranged probability
+######Page 3:
+ * [ ] 101. Optimum Polynomial
