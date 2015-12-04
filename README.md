@@ -52,6 +52,7 @@
  * [x] 48. Self powers
  * [ ] 49. Prime permutations
  * [ ] 50. Consecutive prime sum
+
 ######Page 2
  * [ ] 51. Prime digit replacements
  * [ ] 52. Permuted multiples
@@ -104,5 +105,6 @@
  * [ ] 98. Anagramic squares
  * [ ] 99. Largest exponential
  * [ ] 100. Arranged probability 
+
 ######Page 3:
  * [ ] 101. Optimum Polynomial
