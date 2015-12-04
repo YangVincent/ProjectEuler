@@ -53,7 +53,7 @@
  * [ ] 49. Prime permutations
  * [ ] 50. Consecutive prime sum
 
-######Page 2
+######Page 2:
  * [ ] 51. Prime digit replacements
  * [ ] 52. Permuted multiples
  * [ ] 53. Conbinatoric selections
