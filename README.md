@@ -62,7 +62,7 @@
  * [ ] 57. Square root convergents
  * [ ] 58. Spiral primes
  * [ ] 59. XOR decryption - In Progress
-   * This is decyption for the One Time Pad, using Two Time pad
+   * This is decyption for the One Time Pad, using a Cyclic key
  * [ ] 60. Prime pair sets
  * [ ] 61. Cyclical figurate numbers
  * [ ] 62. Cubic permutations
@@ -103,6 +103,6 @@
  * [ ] 97. Large non-Mersenne prime
  * [ ] 98. Anagramic squares
  * [ ] 99. Largest exponential
- * [ ] 100. Arranged probability
+ * [ ] 100. Arranged probability 
 ######Page 3:
  * [ ] 101. Optimum Polynomial
